@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-![OUTPUT](./home/project/ORM/DATA MINDMAP.png)
+![OUTPUT](./data.png)
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -58,8 +58,7 @@ admin.site.register(Stud,StudAdmin)
 
 ## OUTPUT
 
-![OUTPUT](C:\Users\thula\OneDrive\Pictures\Screenshots\student data base.png)
-
+![OUTPUT](./stu.png)
 ## RESULT
 
 The program for creating a student database using the ORM is created successfully.
