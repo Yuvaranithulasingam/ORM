@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-![OUTPUT](./C:\Users\thula\OneDrive\Desktop\DATA MINDMAP.png)
+![OUTPUT](C:\Users\thula\OneDrive\Desktop\DATA MINDMAP.png)
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -58,7 +58,7 @@ admin.site.register(Stud,StudAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./C:\Users\thula\OneDrive\Pictures\Screenshots\student data base.png)
+![OUTPUT](C:\Users\thula\OneDrive\Pictures\Screenshots\student data base.png)
 
 ## RESULT
 
