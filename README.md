@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-![OUTPUT](C:\Users\thula\OneDrive\Desktop\DATA MINDMAP.png)
+![OUTPUT](./home/project/ORM/DATA MINDMAP.png)
 ## DESIGN STEPS
 
 ### STEP 1:
